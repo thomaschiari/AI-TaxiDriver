@@ -1,0 +1,4 @@
+pygame
+aigyminsper
+pytest
+tk

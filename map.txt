@@ -1,0 +1,26 @@
+0 0 1 0 0
+0 0 1 0 0
+0 0 1 0 0
+0 0 0 0 0
+END MAP
+
+Taxi row: 
+0
+
+Taxi column: 
+0
+
+Passenger row: 
+0
+
+Passenger column: 
+4
+
+Destination row: 
+3
+
+Destination column:
+0
+
+Max cost:
+30
